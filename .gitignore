@@ -1,0 +1,6 @@
+# Sensitive API Key
+config/api_key.txt
+config/test_api_key.txt
+
+# Saved data
+saved_cities_weather.json
